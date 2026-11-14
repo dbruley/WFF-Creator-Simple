@@ -1,0 +1,6 @@
+{
+  "name": "Watch Face Studio",
+  "description": "Wear OS Watch Face Format (WFF) creator supporting up to Wear OS 7 with interactive live previewer, complication layout tester, visual editor, and XML exporter",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
